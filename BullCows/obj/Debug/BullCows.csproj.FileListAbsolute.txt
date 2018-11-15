@@ -1,0 +1,6 @@
+c:\users\ilya-\source\repos\BullCows\bin\Debug\BullCows.exe
+c:\users\ilya-\source\repos\BullCows\bin\Debug\BullCows.pdb
+c:\users\ilya-\source\repos\BullCows\obj\Debug\BullCows.csprojResolveAssemblyReference.cache
+c:\users\ilya-\source\repos\BullCows\obj\Debug\BullCows.csproj.CoreCompileInputs.cache
+c:\users\ilya-\source\repos\BullCows\obj\Debug\BullCows.exe
+c:\users\ilya-\source\repos\BullCows\obj\Debug\BullCows.pdb
